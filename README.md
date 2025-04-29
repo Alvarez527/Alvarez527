@@ -46,7 +46,7 @@ I'm always open to networking and professional opportunities. Feel free to reach
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-alvarez-6644a7270)
 
 
-## :zap: Actividad reciente
+## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Alvarez527/Alvarez527](https://github.com/Alvarez527/Alvarez527)<br>
 2. 📔 Created new repository [Alvarez527/Alvarez527](https://github.com/Alvarez527/Alvarez527)<br>
