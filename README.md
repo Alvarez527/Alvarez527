@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi , I'm Carlos Alvarez AI & Data Science Developer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Carlos Alvarez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Carlos%20Álvarez&fontSize=70&fontColor=ffffff&desc=ML%20Engineer%20%7C%20Business%20Analyst&descAlignY=80&animation=scale&background=url(https://i.imgur.com/XtZz6JL.jpg))](https://github.com/Alvarez527)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Carlos%20Álvarez&fontSize=70&fontColor=ffffff&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Business%20Analyst&descAlignY=80&animation=scale&background=url(https://i.imgur.com/XtZz6JL.jpg))](https://github.com/Alvarez527)
 
 <div align="center">
   <!-- Primera fila: ML/Datos -->
