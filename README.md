@@ -46,6 +46,13 @@ I'm always open to networking and professional opportunities. Feel free to reach
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-alvarez-6644a7270)
 
 
+## :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Languages
 
