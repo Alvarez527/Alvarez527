@@ -1,9 +1,35 @@
-## Hi there, I am Carlos Álvarez 👋
+<h1 align="center"><b>Hi , I'm Carlos Alvarez AI & Data Science Developer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Carlos%20Álvarez&fontSize=70&fontColor=ffffff&desc=ML%20Engineer%20%7C%20Business%20Analyst&descAlignY=80&animation=scale&background=url(https://i.imgur.com/XtZz6JL.jpg))](https://github.com/Alvarez527)
+
+<div align="center">
+  <!-- Primera fila: ML/Datos -->
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Segunda fila: Frameworks -->
+   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgresql" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Tercera fila: Cloud/DB -->
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="65" title="Spring | Python | Java | TensorFlow"/>
+</div>
 
 
 ## 🤖 About Me
 
-As an engineer with a solid background in the manufacturing industry and a Master's in Data Science and Artificial Intelligence, I am driven by my passion for digital transformation. My focus is on harnessing the power of Industry 4.0 to create innovative solutions that help digitalize the world and shape the future of businesses and industries.
+As an engineer with a solid background in the manufacturing industry and a Master's in Data Science and Artificial Intelligence, I am driven by my passion for digital transformation. My focus is on harnessing the power of Industry 4.0 and Data Analysis to create innovative solutions that help digitalize the world and shape the future of businesses and industries.
 
 - 🎓 **Master's Degree in Data Science and Artificial Intelligence**
 - ⚙️ **Mechanical Engineer**    
