@@ -48,14 +48,14 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [V0.1.1](https://github.com/Alvarez527/releaseRepo/releases/tag/V0.1.1) in [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
-2. ✌️ Released [V0.1.0](https://github.com/Alvarez527/releaseRepo/releases/tag/v0.1.0) in [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
-4. 📔 Created new repository [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
-5. ⬆️ Pushed 3 commit(s) to [Alvarez527/repoCLI](https://github.com/Alvarez527/repoCLI)<br>
+1. ⬆️ Pushed 1 commit(s) to [Alvarez527/Alvarez527](https://github.com/Alvarez527/Alvarez527)<br>
+2. ⬆️ Pushed 2 commit(s) to [Alvarez527/Alvarez527](https://github.com/Alvarez527/Alvarez527)<br>
+3. ✌️ Released [V0.1.1](https://github.com/Alvarez527/releaseRepo/releases/tag/V0.1.1) in [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
+4. ✌️ Released [V0.1.0](https://github.com/Alvarez527/releaseRepo/releases/tag/v0.1.0) in [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
+5. ⬆️ Pushed 1 commit(s) to [Alvarez527/releaseRepo](https://github.com/Alvarez527/releaseRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 8th, 2025, 1:17:15 AM
+Last Updated: Thursday, May 8th, 2025, 12:32:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Languages
