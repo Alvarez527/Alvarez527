@@ -48,10 +48,11 @@ I'm always open to networking and professional opportunities. Feel free to reach
 
 ## :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Alvarez527/ai-agents-for-beginners](https://github.com/Alvarez527/ai-agents-for-beginners) from [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)<br>
+1. 🔱 Forked [Alvarez527/awesome-mlops](https://github.com/Alvarez527/awesome-mlops) from [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops)<br>
+2. 🔱 Forked [Alvarez527/ai-agents-for-beginners](https://github.com/Alvarez527/ai-agents-for-beginners) from [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 30th, 2025, 1:08:32 PM
+Last Updated: Wednesday, October 1st, 2025, 1:20:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🛠️ Languages
